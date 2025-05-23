@@ -18,7 +18,7 @@ Adaptable to multispectral and derived indices (e.g., NDVI, NDBI).
 Compatible with small input image sizes (64x64x3).
 
 **🛠 Technologies Used**
-Python 3.x
+Python 3.12
 
 TensorFlow / Keras
 
